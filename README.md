@@ -67,7 +67,6 @@ License
 This project is released under the MIT License. See LICENSE for details.
 
 yaml
-
 ---
 
 Let me know if you also want:
