@@ -12,7 +12,7 @@ This enclosure was designed for a NodeMCU-based timer circuit that requires port
 
 The box and lid are precisely modeled using Python, providing high customizability, reusability, and CAD/CAM integration.
 
-## Folder Structure
+
 
 ## Folder Structure
 
